@@ -1,4 +1,4 @@
-# Project Description for `julia_2.jl`
+# Ghanaian Transmission Grid [Simplified 16 nodes]
 
 This Julia script, `julia_2.jl`, is part of a PowerModels Analytics project developed by Michael Boateng. The project is focused on analyzing Ghana's power grid at the transmission level, specifically a 16-bus system.
 
