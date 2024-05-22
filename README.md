@@ -1,4 +1,9 @@
 # Ghanaian Transmission Grid [Simplified 16 nodes]
+![GTG_1](https://github.com/MichaelBoateng/PowerModels-Analytics-Distribution-Project/assets/47555566/4aeec225-d78e-4127-9da1-f1545513dee4)
+
+![GTG_2](https://github.com/MichaelBoateng/PowerModels-Analytics-Distribution-Project/assets/47555566/f8f11e2f-a55f-4464-8b16-063fece38072)
+
+![GTG_3](https://github.com/MichaelBoateng/PowerModels-Analytics-Distribution-Project/assets/47555566/9188fc3f-383c-43ec-9bb5-353ba09aa835)
 
 This Julia script, `julia_2.jl`, is part of a PowerModels Analytics project developed by Michael Boateng. The project is focused on analyzing Ghana's power grid at the transmission level, specifically a 16-bus system.
 
